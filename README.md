@@ -1,2 +1,2 @@
 # igniteletters
-App that builds cover letters for people
+App that builds cover letters 
